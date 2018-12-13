@@ -22,13 +22,13 @@ If you visit https://dog.ceo/api/breeds/list/all
 a list of all dog breeds is returned. Try this in your browser! (Chrome/firefox)
 
 Using the `requests` library (as shown in the slides)
-Do a GET request to the link above to get all dog breeds and return them
-to them as a list to the user as a bullet pointed list
+Do a GET request to the link above to get all dog breeds and return them 
+as a list to the user as a bullet pointed list
 
 ### **Bonus:**
 Calling https://dog.ceo/api/breed/BREED_NAME_HERE_INSTEAD/images/random
 
-With a <BREED> provided returns an image, Example:
+With a BREED provided returns an image, Example:
  - https://dog.ceo/api/breed/beagle/images/random
 
 Create a new route and html page that has a text box, when the user write a name
